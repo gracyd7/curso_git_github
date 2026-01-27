@@ -4,3 +4,9 @@ Este arquivo contém informações adicionais para git.
 
 # Comandos mais genéricos
  - comandos estranhos
+
+# Mai comandos 
+
+abcdeffghn
+afghjlkj 
+asjkfytn,c
