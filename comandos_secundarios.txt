@@ -5,8 +5,16 @@ Este arquivo contém informações adicionais para git.
 # Comandos mais genéricos
  - comandos estranhos
 
+ HEAD
 # Mais comandos 
 
 abcdeffghn
 afghjlkj 
 asjkfytn,c
+
+# Mai comandos 
+
+abcdeffghn
+afghjlkj 
+testando
+secundaria
