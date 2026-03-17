@@ -7,3 +7,10 @@ Além disso , vamos trabalhar com GitFlow ao final do curso e Visual
 Studio Code.
 
 Confira tudo o que temos no youtube TMW .É grátis . 
+
+
+----
+
+Pessoas Participantes:
+
+-Cy
