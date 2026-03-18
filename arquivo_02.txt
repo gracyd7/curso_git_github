@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 esse arquiv é um arquivo de teste
+=======
+esse é um arquivo tosco
+
+>>>>>>> upstream/main
 mais uma linha nesse arquivo

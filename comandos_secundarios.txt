@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Este arquivo contém informações adicionais para git.
 - Primeiro Comando
 - Segundo Comando
@@ -18,3 +19,18 @@ abcdeffghn
 afghjlkj 
 testando
 secundaria
+=======
+Este arquivo contém informações adicionais para git
+
+- Primeiro comando
+- Segundo comando
+
+# Comandos mais genéricos
+- comandos estranhos
+
+# Mais comandos!!!
+
+iudhascybag i
+avjosadhb iadfg
+asgjlnadrsjklgb 
+>>>>>>> upstream/main
